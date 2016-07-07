@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(300, 332);
   smallPoint = 4;
   largePoint = 40;
   imageMode(CENTER);
